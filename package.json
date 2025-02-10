@@ -39,7 +39,7 @@
     "@csstools/postcss-global-data": "^2.1.1",
     "@mapbox/rehype-prism": "^0.9.0",
     "@mdx-js/rollup": "^3.0.1",
-    "@remix-run/dev": "^2.7.1",
+    "@remix-run/dev": "^2.15.3",
     "@storybook/addon-a11y": "^7.6.17",
     "@storybook/addon-essentials": "^7.6.17",
     "@storybook/addon-interactions": "^7.6.17",
@@ -62,7 +62,7 @@
     "remark-frontmatter": "^5.0.0",
     "remark-mdx-frontmatter": "^4.0.0",
     "storybook": "^7.6.17",
-    "vite": "^4.4.9",
+    "vite": "^5.4.14",
     "vite-jsconfig-paths": "^2.0.1",
     "wrangler": "^3.24.0"
   },
